@@ -1,0 +1,9 @@
+var app_config = angular.module('drupalionic.config', []);
+
+
+/**
+ * drupal_base_url is your Drupal site URL.
+ * services_endpoint is your Services API Endpoint, define when creating a service
+ **/
+app_config.constant('drupal_base_url', <%= drupal_base_url %>);
+app_config.constant('services_endpoint', <%= services_endpoint %>);
