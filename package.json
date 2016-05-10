@@ -1,6 +1,6 @@
 {
   "name": "drupalionic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build RESTful-ready hybrid mobile apps that connect to your Drupal services",
   "main": "index.js",
   "scripts": {
