@@ -7,7 +7,7 @@ Build RESTful-ready hybrid mobile apps that connect to your Drupal services
 [![NPM](https://nodei.co/npm/drupalionic.png?stars&downloads)](https://nodei.co/npm/drupalionic/)
 
 ## Supported Ionic Version supported
-Ionic 1.x. Ionic 2.x beta will be supported in the future
+*Ionic 1.x* is the current version supported. Ionic 2.x beta will be supported in the future
 
 ## Supported Drupal Services Version
 The Drupal [services 3.x](https://www.drupal.org/project/services) is the only supported version now. Drupal 8 will be supported in the
